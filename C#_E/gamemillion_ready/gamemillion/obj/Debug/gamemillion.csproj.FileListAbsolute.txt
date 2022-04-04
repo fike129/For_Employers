@@ -1,0 +1,21 @@
+C:\Users\fike129\source\repos\gamemillion\gamemillion\bin\Debug\gamemillion.exe.config
+C:\Users\fike129\source\repos\gamemillion\gamemillion\bin\Debug\gamemillion.exe
+C:\Users\fike129\source\repos\gamemillion\gamemillion\bin\Debug\gamemillion.pdb
+C:\Users\fike129\source\repos\gamemillion\gamemillion\obj\Debug\gamemillion.csprojAssemblyReference.cache
+C:\Users\fike129\source\repos\gamemillion\gamemillion\obj\Debug\gamemillion.csproj.CoreCompileInputs.cache
+C:\Users\fike129\source\repos\gamemillion\gamemillion\obj\Debug\gamemillion.exe
+C:\Users\fike129\source\repos\gamemillion\gamemillion\obj\Debug\gamemillion.pdb
+C:\Users\fike1\Desktop\gamemillion\gamemillion\bin\Debug\gamemillion.exe.config
+C:\Users\fike1\Desktop\gamemillion\gamemillion\bin\Debug\gamemillion.exe
+C:\Users\fike1\Desktop\gamemillion\gamemillion\bin\Debug\gamemillion.pdb
+C:\Users\fike1\Desktop\gamemillion\gamemillion\obj\Debug\gamemillion.csproj.AssemblyReference.cache
+C:\Users\fike1\Desktop\gamemillion\gamemillion\obj\Debug\gamemillion.csproj.CoreCompileInputs.cache
+C:\Users\fike1\Desktop\gamemillion\gamemillion\obj\Debug\gamemillion.exe
+C:\Users\fike1\Desktop\gamemillion\gamemillion\obj\Debug\gamemillion.pdb
+C:\Users\fike1\Desktop\Test Work\gamemillion_ready\gamemillion\obj\Debug\gamemillion.csproj.AssemblyReference.cache
+C:\Users\fike1\Desktop\Test Work\gamemillion_ready\gamemillion\obj\Debug\gamemillion.csproj.CoreCompileInputs.cache
+C:\Users\fike1\Desktop\Test Work\gamemillion_ready\gamemillion\obj\Debug\gamemillion.exe
+C:\Users\fike1\Desktop\Test Work\gamemillion_ready\gamemillion\obj\Debug\gamemillion.pdb
+C:\Users\fike1\Desktop\Test Work\gamemillion_ready\gamemillion\bin\Debug\gamemillion.exe.config
+C:\Users\fike1\Desktop\Test Work\gamemillion_ready\gamemillion\bin\Debug\gamemillion.exe
+C:\Users\fike1\Desktop\Test Work\gamemillion_ready\gamemillion\bin\Debug\gamemillion.pdb

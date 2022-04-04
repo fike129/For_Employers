@@ -1,0 +1,5 @@
+C:\Users\fike1\Source\Repos\Labik6\Labik6\obj\Debug\netcoreapp3.1\Labik6.csproj.AssemblyReference.cache
+C:\Users\fike1\Source\Repos\Labik6\Labik6\obj\Debug\netcoreapp3.1\Labik6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fike1\Source\Repos\Labik6\Labik6\obj\Debug\netcoreapp3.1\Labik6.AssemblyInfoInputs.cache
+C:\Users\fike1\Source\Repos\Labik6\Labik6\obj\Debug\netcoreapp3.1\Labik6.AssemblyInfo.cs
+C:\Users\fike1\Source\Repos\Labik6\Labik6\obj\Debug\netcoreapp3.1\Labik6.csproj.CoreCompileInputs.cache

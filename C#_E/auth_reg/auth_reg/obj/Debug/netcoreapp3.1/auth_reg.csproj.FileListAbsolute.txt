@@ -1,0 +1,14 @@
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\obj\Debug\netcoreapp3.1\auth_reg.csproj.AssemblyReference.cache
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\obj\Debug\netcoreapp3.1\auth_reg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\obj\Debug\netcoreapp3.1\auth_reg.AssemblyInfoInputs.cache
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\obj\Debug\netcoreapp3.1\auth_reg.AssemblyInfo.cs
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\obj\Debug\netcoreapp3.1\auth_reg.csproj.CoreCompileInputs.cache
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\bin\Debug\netcoreapp3.1\auth_reg.exe
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\bin\Debug\netcoreapp3.1\auth_reg.deps.json
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\bin\Debug\netcoreapp3.1\auth_reg.runtimeconfig.json
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\bin\Debug\netcoreapp3.1\auth_reg.runtimeconfig.dev.json
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\bin\Debug\netcoreapp3.1\auth_reg.dll
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\bin\Debug\netcoreapp3.1\auth_reg.pdb
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\obj\Debug\netcoreapp3.1\auth_reg.dll
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\obj\Debug\netcoreapp3.1\auth_reg.pdb
+C:\Users\fike1\Source\Repos\auth_reg\auth_reg\obj\Debug\netcoreapp3.1\auth_reg.genruntimeconfig.cache

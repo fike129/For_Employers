@@ -1,0 +1,11 @@
+C:\Users\fike1\Source\Repos\Colllege\Colllege\bin\Debug\Colllege.exe.config
+C:\Users\fike1\Source\Repos\Colllege\Colllege\bin\Debug\Colllege.exe
+C:\Users\fike1\Source\Repos\Colllege\Colllege\bin\Debug\Colllege.pdb
+C:\Users\fike1\Source\Repos\Colllege\Colllege\obj\Debug\Colllege.csproj.AssemblyReference.cache
+C:\Users\fike1\Source\Repos\Colllege\Colllege\obj\Debug\Colllege.Properties.Resources.resources
+C:\Users\fike1\Source\Repos\Colllege\Colllege\obj\Debug\Colllege.csproj.GenerateResource.cache
+C:\Users\fike1\Source\Repos\Colllege\Colllege\obj\Debug\Colllege.csproj.CoreCompileInputs.cache
+C:\Users\fike1\Source\Repos\Colllege\Colllege\obj\Debug\Colllege.exe
+C:\Users\fike1\Source\Repos\Colllege\Colllege\obj\Debug\Colllege.pdb
+C:\Users\fike1\Source\Repos\Colllege\Colllege\bin\Debug\Data_College_OLD.mdb
+C:\Users\fike1\Source\Repos\Colllege\Colllege\obj\Debug\Colllege.Form1.resources

@@ -1,0 +1,14 @@
+C:\Users\fike1\Source\Repos\lag6\lag6\bin\Debug\netcoreapp3.1\lag6.exe
+C:\Users\fike1\Source\Repos\lag6\lag6\bin\Debug\netcoreapp3.1\lag6.deps.json
+C:\Users\fike1\Source\Repos\lag6\lag6\bin\Debug\netcoreapp3.1\lag6.runtimeconfig.json
+C:\Users\fike1\Source\Repos\lag6\lag6\bin\Debug\netcoreapp3.1\lag6.runtimeconfig.dev.json
+C:\Users\fike1\Source\Repos\lag6\lag6\bin\Debug\netcoreapp3.1\lag6.dll
+C:\Users\fike1\Source\Repos\lag6\lag6\bin\Debug\netcoreapp3.1\lag6.pdb
+C:\Users\fike1\Source\Repos\lag6\lag6\obj\Debug\netcoreapp3.1\lag6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fike1\Source\Repos\lag6\lag6\obj\Debug\netcoreapp3.1\lag6.AssemblyInfoInputs.cache
+C:\Users\fike1\Source\Repos\lag6\lag6\obj\Debug\netcoreapp3.1\lag6.AssemblyInfo.cs
+C:\Users\fike1\Source\Repos\lag6\lag6\obj\Debug\netcoreapp3.1\lag6.csproj.CoreCompileInputs.cache
+C:\Users\fike1\Source\Repos\lag6\lag6\obj\Debug\netcoreapp3.1\lag6.dll
+C:\Users\fike1\Source\Repos\lag6\lag6\obj\Debug\netcoreapp3.1\lag6.pdb
+C:\Users\fike1\Source\Repos\lag6\lag6\obj\Debug\netcoreapp3.1\lag6.genruntimeconfig.cache
+C:\Users\fike1\Source\Repos\lag6\lag6\obj\Debug\netcoreapp3.1\lag6.csproj.AssemblyReference.cache
